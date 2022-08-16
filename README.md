@@ -1,3 +1,6 @@
+### Latest Project: AUDL Statistical Analysis
+I scraped data from the American Ultimate Disc League website and utilized it to help answer two questions: 1) Is the phenomenon of the 'Home Court Advantage' seen in the AUDL? and 2) Can we utilize player stats to categorize players based on the positions they play on the field? Check it out!
+
 - 👋 Hi, I’m @g-lorenzo, aka Geoffrey Price
 - 👀 I’m interested in machine learning, process automation, and Cloud infrastructure
 - 🌱 I’m currently learning Pytorch
